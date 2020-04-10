@@ -41,7 +41,7 @@ _nv.pad('abc', 8);
 
 ```javascript
 _nv.pad('abc', 2);
-// => 'fRED'
+// => 'abc'
 ```
 
 ```javascript
