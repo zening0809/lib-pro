@@ -8,8 +8,11 @@ pyecharts 是一个用于生成 Echarts 图表的类库。Echarts 是百度开�
   - [系列配置项](zh-cn/series_options)
 - 字符串
   - [驼峰写法](zh-cn/camel_case)
-  - [图表示例](zh-cn/demo_data)
-  - [全局变量](zh-cn/global_vars)
+  - [仅首字符大写](zh-cn/capitalize)
+  - [转小写](zh-cn/lower_case)
+  - [首字母转小写](zh-cn/lower_first)
+  - [是否以指定字符结尾](zh-cn/end_width)
+  - [指定字符从中间填充](zh-cn/pad)
 - 类型判断
   - [基本图表](zh-cn/basic_charts)
   - [直角坐标系图表](zh-cn/rectangular_charts)

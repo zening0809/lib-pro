@@ -8,3 +8,4 @@ $ git clone https://github.com/zening0809/nv-lib/pyecharts-gallery.git
 # pip install pyecharts
 # 文件夹中有各种图和组件的 example，有其相对应的代码和 html 文件；自行调试
 ```
+这是一个demo文件
