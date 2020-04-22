@@ -28,7 +28,7 @@
 > *类型定义*
 
 ```javascript
-type endWidthType = (v: string) =>  string;
+type endWidthType = (v: string, x: string, y: number) =>  string;
 ```
 
 > *例子*
