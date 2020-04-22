@@ -24,7 +24,7 @@
 > *类型定义*
 
 ```javascript
-type trimType = (v: string) =>  string;
+type trimType = (v: string, x: string) =>  string;
 ```
 
 > *例子*

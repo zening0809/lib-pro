@@ -28,7 +28,7 @@
 > *类型定义*
 
 ```javascript
-type string2GroupType = (v: string) =>  string;
+type string2GroupType = (v: string, x: number) =>  string;
 ```
 
 > *例子*

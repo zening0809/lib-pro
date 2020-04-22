@@ -29,7 +29,7 @@
 > *类型定义*
 
 ```javascript
-type padType = (v: string) =>  string;
+type padType = (v: string, x: number, y: string) =>  string;
 ```
 
 > *例子*

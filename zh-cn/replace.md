@@ -29,7 +29,7 @@ pattern (RegExp|string) : 要匹配的内容
 > *类型定义*
 
 ```javascript
-type replaceType = (v: string) =>  string;
+type replaceType = (v: string, x: RegExp|string, y:Function|string) =>  string;
 ```
 
 > *例子*

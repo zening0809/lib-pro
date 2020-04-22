@@ -29,7 +29,7 @@
 > *类型定义*
 
 ```javascript
-type splitType = (v: string) =>  string;
+type splitType = (v: string, x: RegExp|string, y: number) =>  string;
 ```
 
 > *例子*

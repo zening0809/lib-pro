@@ -28,7 +28,7 @@
 > *类型定义*
 
 ```javascript
-type repeatType = (v: string) =>  string;
+type repeatType = (v: string, x: number) =>  string;
 ```
 
 > *例子*

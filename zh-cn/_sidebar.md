@@ -10,6 +10,7 @@ pyecharts 是一个用于生成 Echarts 图表的类库。Echarts 是百度开�
   - [驼峰写法](zh-cn/camel_case)
   - [仅首字符大写](zh-cn/capitalize)
   - [转小写](zh-cn/lower_case)
+  - [转特殊字符为HTML实体字符](zh-cn/escape)
   - [首字母转小写](zh-cn/lower_first)
   - [从开头填充字符](zh-cn/pad_start)
   - [从中间填充字符](zh-cn/pad)
@@ -19,14 +20,18 @@ pyecharts 是一个用于生成 Echarts 图表的类库。Echarts 是百度开�
   - [snake case](zh-cn/snake_case)
   - [字符串拆分](zh-cn/split)
   - [字符串拆分](zh-cn/start_case)
+  - [kebab case](zh-cn/kebab_case)
   - [是否以 target 开头](zh-cn/start_with)
   - [是否以 target 结尾](zh-cn/end_width)
   - [转为特定长度数组](zh-cn/string2_group)
   - [字符串反转](zh-cn/string_revert)
   - [去除前空格](zh-cn/trim_start)
+  - [去除前后空格](zh-cn/trim)
   - [去除后空格](zh-cn/trim_end)
-
-  - [去除后空格](zh-cn/trim_end)
+  - [字符串截断](zh-cn/truncate)  拆分字符串为数组
+  - [以空格分隔的大写单词](zh-cn/upper_case)
+  - [首字母大写](zh-cn/upper_first)
+  - [拆分字符串为数组](zh-cn/words)
 - 类型判断
   - [基本图表](zh-cn/basic_charts)
   - [直角坐标系图表](zh-cn/rectangular_charts)
