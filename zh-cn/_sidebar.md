@@ -40,6 +40,18 @@ pyecharts 是一个用于生成 Echarts 图表的类库。Echarts 是百度开�
   - [3D 图表](zh-cn/3d_charts)
   - [组合图表](zh-cn/composite_charts)
   - [HTML 组件](zh-cn/html_components)
+- 数学Math
+  - [两个数相加](zh-cn/add)
+  - [向上舍入](zh-cn/ceil)
+  - [两个数相除](zh-cn/divide)
+  - [向下舍入](zh-cn/floor)
+  - [计算最大值](zh-cn/max)
+  - [计算最小值](zh-cn/min)
+  - [计算平均值](zh-cn/mean) 
+  - [两个数相乘](zh-cn/multiply)
+  - [两数相减](zh-cn/subtract)
+  - [四舍五入](zh-cn/round)
+  - [attay值的总和](zh-cn/sum)
 - 类型转换
   - [参数传递](zh-cn/parameters)
   - [数据格式](zh-cn/data_format)
