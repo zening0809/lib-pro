@@ -1,3 +1,11 @@
+<!--
+ * @Author: your name
+ * @Date: 2020-04-22 17:05:27
+ * @LastEditTime: 2020-05-06 16:45:10
+ * @LastEditors: your name
+ * @Description: In User Settings Edit
+ * @FilePath: \lib-pro\zh-cn\_sidebar.md
+ -->
 pyecharts 是一个用于生成 Echarts 图表的类库。Echarts 是百度开源的一个数据可视化 JS 库。用 Echarts 生成的图可视化效果非常棒，pyecharts 是为了与 Python 进行对接，方便在 Python 中直接使用数据生成图。
 
 - 概览
@@ -62,10 +70,11 @@ pyecharts 是一个用于生成 Echarts 图表的类库。Echarts 是百度开�
   - [原生 Javascript](zh-cn/javascript)
   - [资源引用](zh-cn/assets_host)
 - 日期
-  - [Flask](zh-cn/web_flask)
-  - [Sanic](zh-cn/web_sanic)
-  - [Django](zh-cn/web_django)
-  - [Tornado](zh-cn/web_tornado)
+  - [当前时间戳](zh-cn/now)
+  - [日期格式化](zh-cn/date_format)
+  - [指定天数的日期](zh-cn/get_day)
+  - [日期转时间戳](zh-cn/get_tnum)
+  - [日期范围](zh-cn/date_range)
 - 其他资源
   - [地理地图数据](zh-cn/datasets)
 - 项目发布
